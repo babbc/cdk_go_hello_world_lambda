@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+# Project
+greet_lambda_creator
+.DS_Store
